@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
