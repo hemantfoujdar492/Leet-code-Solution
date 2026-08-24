@@ -15,4 +15,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2235-add-two-integers](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/2235-add-two-integers/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/2413-smallest-even-multiple/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2413-smallest-even-multiple](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/2413-smallest-even-multiple/) | Easy |
 <!---LeetCode Topics End-->
