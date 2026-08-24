@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Number Theory
