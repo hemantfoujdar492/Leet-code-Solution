@@ -11,4 +11,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2235-add-two-integers](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
