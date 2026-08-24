@@ -17,10 +17,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/2413-smallest-even-multiple/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hemantfoujdar492/Leet-code-Solution/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
